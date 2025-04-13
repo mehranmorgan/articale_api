@@ -96,7 +96,7 @@ articale_api/
 
 ## ✍️ توسعه‌دهنده
 
-- [Mehran Morgan](https://github.com/mehranmorgan)
+- [Mehran abdollahi](https://github.com/mehranmorgan)
 
 ## 📃 لایسنس
 
